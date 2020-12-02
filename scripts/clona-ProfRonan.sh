@@ -24,6 +24,9 @@ git clone "https://github.com/ProfRonan/trocado.git"
 git clone "https://github.com/ProfRonan/tempo-de-jogo.git"
 
 echo "Clonando Projetos do Grupo 3"
+git clone "https://github.com/ProfRonan/impares.git"
+git clone "https://github.com/ProfRonan/detecta-primo.git"
+git clone "https://github.com/ProfRonan/fatora-primos.git"
 
 
 pause
