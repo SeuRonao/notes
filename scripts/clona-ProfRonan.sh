@@ -25,8 +25,13 @@ git clone "https://github.com/ProfRonan/tempo-de-jogo.git"
 
 echo "Clonando Projetos do Grupo 3"
 git clone "https://github.com/ProfRonan/impares.git"
+git clone "https://github.com/ProfRonan/mult-3-ou-5.git"
 git clone "https://github.com/ProfRonan/detecta-primo.git"
 git clone "https://github.com/ProfRonan/fatora-primos.git"
+git clone "https://github.com/ProfRonan/tripla-pitagoreana.git"
+git clone "https://github.com/ProfRonan/soma-sequencia-par.git"
 
+echo "Clonando Projetos do Grupo 4"
+git clone "https://github.com/ProfRonan/ordenacoes.git"
 
 pause
