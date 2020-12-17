@@ -32,6 +32,8 @@
 | yes  | [GitHubCli](https://cli.github.com)                                 |
 | yes  | [KeePass-rpc](https://github.com/kee-org/keepassrpc/releases)       |
 | yes  | [KeePass](https://keepass.info/download.html)                       |
+| yes  | [Krita](https://krita.org/en/download/krita-desktop)                |
+| yes  | [Libre Office](https://www.libreoffice.org/download/download)       |
 | yes  | [Nomacs](https://nomacs.org)                                        |
 | yes  | [OBSInfoWriter](https://github.com/partouf/OBSInfoWriter)           |
 | yes  | [OBStudio](https://obsproject.com/download)                         |
@@ -51,8 +53,6 @@
 |      | [Exiftools](https://exiftool.org/index.html)                        |
 |      | [Gimp](https://www.gimp.org/downloads)                              |
 |      | [Inkscape](https://inkscape.org)                                    |
-|      | [Krita](https://krita.org/en/download/krita-desktop)                |
-|      | [Libre Office](https://www.libreoffice.org/download/download)       |
 |      | [Pandoc](https://pandoc.org/installing.html)                        |
 |      | [Rufus](https://rufus.ie)                                           |
 |      | [WinDirStat](https://windirstat.net/download.html)                  |
