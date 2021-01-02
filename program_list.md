@@ -9,6 +9,7 @@
 | yes  | [Chrome Remote Desktop](https://remotedesktop.google.com/access)                                                                                |
 | yes  | [Chrome](https://www.google.com/chrome)                                                                                                         |
 | yes  | [Discord](https://discord.com)                                                                                                                  |
+| yes  | [DungeonDraft](https://dungeondraft.net)                                                                                                        |
 | yes  | [Epic Games Launcher](https://www.epicgames.com/unrealtournament/download)                                                                      |
 | yes  | [FoundryVTT](https://foundryvtt.com)                                                                                                            |
 | yes  | [GOG Galaxy 2.0](https://www.gog.com/galaxy)                                                                                                    |
@@ -19,6 +20,7 @@
 | yes  | [Voice Meeter Potato](https://www.vb-audio.com/Voicemeeter/potato.htm)                                                                          |
 | yes  | [WhatsApp](https://www.whatsapp.com/download)                                                                                                   |
 | yes  | [Windows Subsystem for Linux](https://docs.microsoft.com/en-us/windows/wsl/install-win10)                                                       |
+| yes  | [WonderDraft](https://www.wonderdraft.net)                                                                                                      |
 |      | [Iriun Webcam](https://iriun.com)                                                                                                               |
 |      | [Telegram](https://desktop.telegram.org)                                                                                                        |
 
