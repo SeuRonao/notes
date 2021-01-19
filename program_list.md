@@ -17,6 +17,7 @@
 | yes  | [GOG Galaxy 2.0](https://www.gog.com/galaxy)                                                                                                    | yes      | gaming   |
 | yes  | [Google Backup and Sync](https://www.google.com/intl/en-GB_ALL/drive/download)                                                                  | yes      | storage  |
 | yes  | [Google File Stream](https://support.google.com/a/answer/7491144?utm_medium=et&utm_source=aboutdrive&utm_content=getstarted&utm_campaign=en_gb) | yes      | storage  |
+| yes  | [Inkscape](https://inkscape.org)                                                                                                                | FOSS     |          |
 | yes  | [KeePass-rpc](https://github.com/kee-org/keepassrpc/releases)                                                                                   | FOSS     | password |
 | yes  | [KeePass](https://keepass.info/download.html)                                                                                                   | FOSS     | password |
 | yes  | [Krita](https://krita.org/en/download/krita-desktop)                                                                                            | FOSS     | drawing  |
@@ -45,7 +46,6 @@
 |      | [DupeGuru](https://dupeguru.voltaicideas.net)                                                                                                   | FOSS     |          |
 |      | [Exiftools](https://exiftool.org/index.html)                                                                                                    | FOSS     |          |
 |      | [Gimp](https://www.gimp.org/downloads)                                                                                                          | FOSS     |          |
-|      | [Inkscape](https://inkscape.org)                                                                                                                | FOSS     |          |
 |      | [Iriun Webcam](https://iriun.com)                                                                                                               | both     | video    |
 |      | [Pandoc](https://pandoc.org/installing.html)                                                                                                    | FOSS     |          |
 |      | [Rufus](https://rufus.ie)                                                                                                                       | FOSS     |          |
